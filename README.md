@@ -1,4 +1,4 @@
-# E-Commerce Website (MERN Stack)
+# Venky-Cart Website (MERN Stack)
 
 ## Description
 This project is a fully functional e-commerce website built using the MERN (MongoDB, Express, React, Node.js) stack. It features user authentication, product management, a shopping cart, order placement, and payment gateway integration. The admin dashboard allows for efficient store management, including order tracking and product uploads.
@@ -72,7 +72,7 @@ To deploy the project on Vercel:
 3. Deploy both the frontend and backend separately.
 
 ## Contributors
-- **Divanshi Jain** - [GitHub Profile](https://github.com/DivanshiJain2005)
+- **Venkatesh Ponnuru** - [GitHub Profile](https://github.com/438-venkatesh)
 
 ## License
 This project is licensed under the MIT License.
